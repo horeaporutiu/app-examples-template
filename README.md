@@ -6,7 +6,7 @@ This app shows how to implement image drag and drop to a Miro board.
 
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2a76-4cb9-8510-39e26b0da5cf
 
-### Table of Contents
+## Table of Contents
 1. [Tools and Technologies](https://github.com/horeaporutiu/app-examples-template#tools-and-technologies)
 2. [Included Features](https://github.com/horeaporutiu/app-examples-template/tree/main#included-features)
 3. [Prerequisites](https://github.com/horeaporutiu/app-examples-template/tree/main#prerequisites)
@@ -16,7 +16,7 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2
 7. [Folder Structure](https://github.com/horeaporutiu/app-examples-template/tree/main#folder-structure)
 8. [License](https://github.com/horeaporutiu/app-examples-template/tree/main#license)
 
-### Tools and Technologies
+## Tools and Technologies
 * React
 * TypeScript
 * Vite
@@ -29,7 +29,7 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2
     * [openPanel(options)](https://developers.miro.com/docs/ui_boardui#openpanel)
     * [draggable elements](https://developers.miro.com/docs/add-drag-and-drop-to-your-app#add-draggable-elements-to-the-app-panel)
 
-### Prerequisites
+## Prerequisites
 * You have a [Miro account](https://miro.com/signup/).
 * You're [signed in to Miro](https://miro.com/login/).
 * Your Miro account has a [Developer team](https://developers.miro.com/docs/create-a-developer-team).
@@ -37,11 +37,11 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2
 * Chromium-based web browser for local development with HTTP.
 * All examples use `npm` as a package manager and `npx` as a package runner.
 
-### Associated Developer Tutorial
+## Associated Developer Tutorial
 > To view a more in depth developer tutorial
 of this app (including code explanations) see the [drag-and-drop tutorial](https://developers.miro.com/docs/add-drag-and-drop-to-your-app) on Miro's Developer documentation.
 
-### Run the app locally
+## Run the app locally
 
 1. Run `npm install` to install dependencies.
 2. Run `npm start` to start developing. \
@@ -57,13 +57,10 @@ of this app (including code explanations) see the [drag-and-drop tutorial](https
      To enable the app to read from and write to the board, add the following permissions:
      - `boards:read`
      - `boards:write`
-4. Go back to your app home page, and under the `Permissions` section, you will see a blue button that says `Install app and get OAuth token`. Click that button.
 
-![install-app](https://github.com/horeaporutiu/app-examples-template/assets/10428517/9ade67d2-7071-420f-865b-63e7dda887d8)
+4. Go back to your app home page, and under the `Permissions` section, you will see a blue button that says `Install app and get OAuth token`. Click that button. Then click on `Add` as shown in the video below.
 
-Then click on `Add`.
-
-![add](https://github.com/horeaporutiu/app-examples-template/assets/10428517/fcaea68c-4fca-4b16-aba0-a50fa543b58e)
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/54339be9-b405-4071-b5f7-7bd838fc0050
 
 5. Go to your developer team, and open your boards. <b>Refresh your browser</b>.
 6. Click on the plus icon from the bottom section of your left sidebar. If you hover over it, it will say `More apps`.
@@ -72,12 +69,12 @@ Then click on `Add`.
 
 7. Search for your app `Drag and drop` or whatever you chose to name it. Click on your app to use it.
 
-### Optional - Build the app
+## Optional - Build the app
 
 - Run `npm run build`. \
   This generates a static output inside `dist/`, which you can host on a static hosting service.
 
-### Folder structure
+## Folder structure
 
 ```
 .
