@@ -23,7 +23,7 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2
 * [Node.js](https://nodejs.org/en/download)
 * [create-miro-app npm package](https://www.npmjs.com/package/create-miro-app)
 
-### Included Features
+## Included Features
 * [Miro Web SDK](https://developers.miro.com/docs/web-sdk-reference)
     * [drop event](https://developers.miro.com/docs/ui_boardui#drop-event) 
     * [openPanel(options)](https://developers.miro.com/docs/ui_boardui#openpanel)
@@ -85,5 +85,5 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/708fb556-0
 └── index.html <-- The app entry point. This is the value you assign to 'sdkUri' in the app manifest file.
 ```
 
-### License
+## License
 [MIT License](https://github.com/miroapp/app-examples/blob/main/LICENSE).
