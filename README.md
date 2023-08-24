@@ -17,10 +17,10 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2
 8. [License](https://github.com/horeaporutiu/app-examples-template/tree/main#license)
 
 ## Tools and Technologies
-* React
-* TypeScript
-* Vite
-* Node.js
+* [React](https://react.dev/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Vite](https://vitejs.dev/)
+* [Node.js](https://nodejs.org/en/download)
 * [create-miro-app npm package](https://www.npmjs.com/package/create-miro-app)
 
 ### Included Features
