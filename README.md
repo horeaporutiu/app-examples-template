@@ -7,14 +7,14 @@ This app shows how to implement image drag and drop to a Miro board.
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2a76-4cb9-8510-39e26b0da5cf
 
 ### Table of Contents
-1. [Tools and Technologies]()
-2. [Included Features]()
-3. [Prerequisites]()
-4. [Associated Developer Tutorial]()
-5. [Run the app locally]()
-6. [Optional - Build the app]()
-7. [Folder Structure]()
-
+1. [Tools and Technologies](https://github.com/horeaporutiu/app-examples-template#tools-and-technologies)
+2. [Included Features](https://github.com/horeaporutiu/app-examples-template/tree/main#included-features)
+3. [Prerequisites](https://github.com/horeaporutiu/app-examples-template/tree/main#prerequisites)
+4. [Associated Developer Tutorial](https://github.com/horeaporutiu/app-examples-template/tree/main#associated-developer-tutorial)
+5. [Run the app locally](https://github.com/horeaporutiu/app-examples-template/tree/main#run-the-app-locally)
+6. [Optional - Build the app](https://github.com/horeaporutiu/app-examples-template/tree/main#optional---build-the-app)
+7. [Folder Structure](https://github.com/horeaporutiu/app-examples-template/tree/main#folder-structure)
+8. [License](https://github.com/horeaporutiu/app-examples-template/tree/main#license)
 
 ### Tools and Technologies
 * React
@@ -79,3 +79,6 @@ Then click on `Add`.
 ├── app.html <-- The app itself. This is loaded on the board inside the 'appContainer'.
 └── index.html <-- The app entry point. This is the value you assign to 'sdkUri' in the app manifest file.
 ```
+
+### License
+[MIT License](https://github.com/miroapp/app-examples/blob/main/LICENSE).
