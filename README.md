@@ -60,13 +60,12 @@ of this app (including code explanations) see the [drag-and-drop tutorial](https
 
 4. Go back to your app home page, and under the `Permissions` section, you will see a blue button that says `Install app and get OAuth token`. Click that button. Then click on `Add` as shown in the video below.
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/54339be9-b405-4071-b5f7-7bd838fc0050
 
 5. Go to your developer team, and open your boards. <b>Refresh your browser</b>.
 6. Click on the plus icon from the bottom section of your left sidebar. If you hover over it, it will say `More apps`.
 7. Search for your app `Drag and drop` or whatever you chose to name it. Click on your app to use it, as shown in the video below.
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/5c4ea1be-e166-49a8-a762-31a66e11a664
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/708fb556-0553-4b46-8b74-1eb53ec70c65
 
 ## Optional - Build the app
 
