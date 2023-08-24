@@ -1,4 +1,4 @@
-# app-examples-template
+# Miro drag and drop app
 
 This app shows how to implement image drag and drop to a Miro board. 
 
