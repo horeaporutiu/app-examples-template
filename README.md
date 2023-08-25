@@ -4,7 +4,7 @@ This app shows how to implement image drag and drop to a Miro board.
 
 # 👨🏻‍💻 App Demo
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2a76-4cb9-8510-39e26b0da5cf
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/3e9aa5ea-0341-4394-bac7-c91136a0559e
 
 # 📒 Table of Contents
 * [Tools and Technologies](#tools)
@@ -62,13 +62,13 @@ of this app (including code explanations) see the [drag-and-drop tutorial](https
 
 > ⚠️ Make sure to install your app on a [developer team](https://developers.miro.com/docs/create-a-developer-team)! ⚠️
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/cb9698e8-fa77-4ad7-a349-ec1323f3cfee
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/456108e8-7d9b-4067-94bb-e5511c736a23
 
 5. Go to your developer team, and open your boards. <b>Refresh your browser</b>.
 6. Click on the plus icon from the bottom section of your left sidebar. If you hover over it, it will say `More apps`.
 7. Search for your app `Drag and drop` or whatever you chose to name it. Click on your app to use it, as shown in the video below.
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/708fb556-0553-4b46-8b74-1eb53ec70c65
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/b23d9c4c-e785-43f9-a72e-fa5d82c7b019
 
 # 👷🏽 Optional - Build the app <a name="buildApp"></a>
 
