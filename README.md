@@ -7,8 +7,8 @@ This app shows how to implement image drag and drop to a Miro board.
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/3e9aa5ea-0341-4394-bac7-c91136a0559e
 
 # 📒 Table of Contents
-* [Tools and Technologies](#tools)
 * [Included Features](#features)
+* [Tools and Technologies](#tools)
 * [Prerequisites](#prerequisites)
 * [Associated Developer Tutorial](#tutorial)
 * [Run the app locally](#runApp)
@@ -16,18 +16,18 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/3e9aa5ea-0
 * [Folder Structure](#folderStructure)
 * [License](#license)
 
+# ⚙️ Included Features <a name="features"></a>
+* [Miro Web SDK](https://developers.miro.com/docs/web-sdk-reference)
+    * [drop event](https://developers.miro.com/docs/ui_boardui#drop-event) 
+    * [openPanel(options)](https://developers.miro.com/docs/ui_boardui#openpanel)
+    * [draggable elements](https://developers.miro.com/docs/add-drag-and-drop-to-your-app#add-draggable-elements-to-the-app-panel)
+
 # 🛠️ Tools and Technologies <a name="tools"></a>
 * [React](https://react.dev/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Vite](https://vitejs.dev/)
 * [Node.js](https://nodejs.org/en/download)
 * [create-miro-app npm package](https://www.npmjs.com/package/create-miro-app)
-
-# ⚙️ Included Features <a name="features"></a>
-* [Miro Web SDK](https://developers.miro.com/docs/web-sdk-reference)
-    * [drop event](https://developers.miro.com/docs/ui_boardui#drop-event) 
-    * [openPanel(options)](https://developers.miro.com/docs/ui_boardui#openpanel)
-    * [draggable elements](https://developers.miro.com/docs/add-drag-and-drop-to-your-app#add-draggable-elements-to-the-app-panel)
 
 # ✅ Prerequisites <a name="prerequisites"></a>
 * You have a [Miro account](https://miro.com/signup/).
