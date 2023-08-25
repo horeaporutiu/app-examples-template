@@ -16,7 +16,7 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2
 7. [Folder Structure](https://github.com/horeaporutiu/app-examples-template/tree/main#folder-structure)
 8. [License](https://github.com/horeaporutiu/app-examples-template/tree/main#license)
 
-## 🛠️ Tools and Technologies
+# 🛠️ Tools and Technologies
 * [React](https://react.dev/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Vite](https://vitejs.dev/)
