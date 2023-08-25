@@ -60,7 +60,7 @@ of this app (including code explanations) see the [drag-and-drop tutorial](https
 
 4. Go back to your app home page, and under the `Permissions` section, you will see a blue button that says `Install app and get OAuth token`. Click that button. Then click on `Add` as shown in the video below.
 
-> ⚠️ Make sure to install your app on a [developer team]((https://developers.miro.com/docs/create-a-developer-team))! ⚠️
+> ⚠️ Make sure to install your app on a [developer team](https://developers.miro.com/docs/create-a-developer-team)! ⚠️
 
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/cb9698e8-fa77-4ad7-a349-ec1323f3cfee
 
