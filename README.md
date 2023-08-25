@@ -4,32 +4,32 @@ This app shows how to implement image drag and drop to a Miro board.
 
 # 👨🏻‍💻 App Demo
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/c0f3bfac-bf06-4bc3-8bdc-63c552344b79
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2a76-4cb9-8510-39e26b0da5cf
 
 # 📒 Table of Contents
-1. [Tools and Technologies](https://github.com/horeaporutiu/app-examples-template#tools-and-technologies)
-2. [Included Features](https://github.com/horeaporutiu/app-examples-template#included-features)
-3. [Prerequisites](https://github.com/horeaporutiu/app-examples-template#prerequisites)
-4. [Associated Developer Tutorial](https://github.com/horeaporutiu/app-examples-template#associated-developer-tutorial)
-5. [Run the app locally](https://github.com/horeaporutiu/app-examples-template#run-the-app-locally)
-6. [Optional - Build the app](https://github.com/horeaporutiu/app-examples-template#optional---build-the-app)
-7. [Folder Structure](https://github.com/horeaporutiu/app-examples-template#folder-structure)
-8. [License](https://github.com/horeaporutiu/app-examples-template#license)
+* [Tools and Technologies](#tools)
+* [Included Features](#features)
+* [Prerequisites](#prerequisites)
+* [Associated Developer Tutorial](#tutorial)
+* [Run the app locally](#runApp)
+* [Optional - Build the app](#buildApp)
+* [Folder Structure](#folderStructure)
+* [License](#license)
 
-# 🛠️ Tools and Technologies
+# 🛠️ Tools and Technologies <a name="tools"></a>
 * [React](https://react.dev/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Vite](https://vitejs.dev/)
 * [Node.js](https://nodejs.org/en/download)
 * [create-miro-app npm package](https://www.npmjs.com/package/create-miro-app)
 
-# ⚙️ Included Features
+# ⚙️ Included Features <a name="features"></a>
 * [Miro Web SDK](https://developers.miro.com/docs/web-sdk-reference)
     * [drop event](https://developers.miro.com/docs/ui_boardui#drop-event) 
     * [openPanel(options)](https://developers.miro.com/docs/ui_boardui#openpanel)
     * [draggable elements](https://developers.miro.com/docs/add-drag-and-drop-to-your-app#add-draggable-elements-to-the-app-panel)
 
-# ✅ Prerequisites
+# ✅ Prerequisites <a name="prerequisites"></a>
 * You have a [Miro account](https://miro.com/signup/).
 * You're [signed in to Miro](https://miro.com/login/).
 * Your Miro account has a [Developer team](https://developers.miro.com/docs/create-a-developer-team).
@@ -37,11 +37,11 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/c0f3bfac-b
 * Chromium-based web browser for local development with HTTP.
 * All examples use `npm` as a package manager and `npx` as a package runner.
 
-# 📖 Associated Developer Tutorial 
+# 📖 Associated Developer Tutorial <a name="tutorial"></a>
 > To view a more in depth developer tutorial
 of this app (including code explanations) see the [drag-and-drop tutorial](https://developers.miro.com/docs/add-drag-and-drop-to-your-app) on Miro's Developer documentation.
 
-# 🏃🏽‍♂️ Run the app locally
+# 🏃🏽‍♂️ Run the app locally <a name="runApp"></a>
 
 1. Run `npm install` to install dependencies.
 2. Run `npm start` to start developing. \
@@ -62,20 +62,20 @@ of this app (including code explanations) see the [drag-and-drop tutorial](https
 
 > ⚠️ Make sure to install your app on a [developer team](https://developers.miro.com/docs/create-a-developer-team)! ⚠️
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/b9c31fd0-1570-4a0f-a683-352d01d10478
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/cb9698e8-fa77-4ad7-a349-ec1323f3cfee
 
 5. Go to your developer team, and open your boards. <b>Refresh your browser</b>.
 6. Click on the plus icon from the bottom section of your left sidebar. If you hover over it, it will say `More apps`.
 7. Search for your app `Drag and drop` or whatever you chose to name it. Click on your app to use it, as shown in the video below.
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/02a43ba0-e621-46d4-a2ae-f9dde89f8c22
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/708fb556-0553-4b46-8b74-1eb53ec70c65
 
-# 👷🏽 Optional - Build the app
+# 👷🏽 Optional - Build the app <a name="buildApp"></a>
 
 - Run `npm run build`. \
   This generates a static output inside `dist/`, which you can host on a static hosting service.
 
-# 🗂️ Folder structure
+# 🗂️ Folder structure <a name="folderStructure"></a>
 
 ```
 .
@@ -88,5 +88,5 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/02a43ba0-e
 └── index.html <-- The app entry point. This is the value you assign to 'sdkUri' in the app manifest file.
 ```
 
-# 🪪 License
+# 🪪 License <a name="license"></a>
 [MIT License](https://github.com/miroapp/app-examples/blob/main/LICENSE).
