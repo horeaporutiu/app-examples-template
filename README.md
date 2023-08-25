@@ -11,9 +11,9 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/3e9aa5ea-0
 * [Tools and Technologies](#tools)
 * [Prerequisites](#prerequisites)
 * [Associated Developer Tutorial](#tutorial)
-* [Run the app locally](#runApp)
-* [Optional - Build the app](#buildApp)
-* [Folder Structure](#folderStructure)
+* [Run the app locally](#run)
+* [Optional - Build the app](#build)
+* [Folder Structure](#folder)
 * [License](#license)
 
 # ⚙️ Included Features <a name="features"></a>
@@ -41,7 +41,7 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/3e9aa5ea-0
 > To view a more in depth developer tutorial
 of this app (including code explanations) see the [drag-and-drop tutorial](https://developers.miro.com/docs/add-drag-and-drop-to-your-app) on Miro's Developer documentation.
 
-# 🏃🏽‍♂️ Run the app locally <a name="runApp"></a>
+# 🏃🏽‍♂️ Run the app locally <a name="run"></a>
 
 1. Run `npm install` to install dependencies.
 2. Run `npm start` to start developing. \
@@ -70,12 +70,12 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/456108e8-7
 
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/b23d9c4c-e785-43f9-a72e-fa5d82c7b019
 
-# 👷🏽 Optional - Build the app <a name="buildApp"></a>
+# 👷🏽 Optional - Build the app <a name="build"></a>
 
 - Run `npm run build`. \
   This generates a static output inside `dist/`, which you can host on a static hosting service.
 
-# 🗂️ Folder structure <a name="folderStructure"></a>
+# 🗂️ Folder structure <a name="folder"></a>
 
 ```
 .
