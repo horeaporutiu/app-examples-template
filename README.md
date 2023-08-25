@@ -37,11 +37,11 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2
 * Chromium-based web browser for local development with HTTP.
 * All examples use `npm` as a package manager and `npx` as a package runner.
 
-##  Associated Developer Tutorial
+## 📖 Associated Developer Tutorial 
 > To view a more in depth developer tutorial
 of this app (including code explanations) see the [drag-and-drop tutorial](https://developers.miro.com/docs/add-drag-and-drop-to-your-app) on Miro's Developer documentation.
 
-## Run the app locally
+## 🏃🏻 Run the app locally
 
 1. Run `npm install` to install dependencies.
 2. Run `npm start` to start developing. \
@@ -70,12 +70,12 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/cb9698e8-f
 
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/708fb556-0553-4b46-8b74-1eb53ec70c65
 
-## Optional - Build the app
+## 👷🏽 Optional - Build the app
 
 - Run `npm run build`. \
   This generates a static output inside `dist/`, which you can host on a static hosting service.
 
-## Folder structure
+## 🗂️ Folder structure
 
 ```
 .
@@ -88,5 +88,5 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/708fb556-0
 └── index.html <-- The app entry point. This is the value you assign to 'sdkUri' in the app manifest file.
 ```
 
-## License
+## 🪪 License
 [MIT License](https://github.com/miroapp/app-examples/blob/main/LICENSE).
