@@ -4,17 +4,17 @@ This app shows how to implement image drag and drop to a Miro board.
 
 # 👨🏻‍💻 App Demo
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/d2196d11-2a76-4cb9-8510-39e26b0da5cf
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/c0f3bfac-bf06-4bc3-8bdc-63c552344b79
 
 # 📒 Table of Contents
 1. [Tools and Technologies](https://github.com/horeaporutiu/app-examples-template#tools-and-technologies)
-2. [Included Features](https://github.com/horeaporutiu/app-examples-template/tree/main#included-features)
-3. [Prerequisites](https://github.com/horeaporutiu/app-examples-template/tree/main#prerequisites)
-4. [Associated Developer Tutorial](https://github.com/horeaporutiu/app-examples-template/tree/main#associated-developer-tutorial)
-5. [Run the app locally](https://github.com/horeaporutiu/app-examples-template/tree/main#run-the-app-locally)
-6. [Optional - Build the app](https://github.com/horeaporutiu/app-examples-template/tree/main#optional---build-the-app)
-7. [Folder Structure](https://github.com/horeaporutiu/app-examples-template/tree/main#folder-structure)
-8. [License](https://github.com/horeaporutiu/app-examples-template/tree/main#license)
+2. [Included Features](https://github.com/horeaporutiu/app-examples-template#included-features)
+3. [Prerequisites](https://github.com/horeaporutiu/app-examples-template#prerequisites)
+4. [Associated Developer Tutorial](https://github.com/horeaporutiu/app-examples-template#associated-developer-tutorial)
+5. [Run the app locally](https://github.com/horeaporutiu/app-examples-template#run-the-app-locally)
+6. [Optional - Build the app](https://github.com/horeaporutiu/app-examples-template#optional---build-the-app)
+7. [Folder Structure](https://github.com/horeaporutiu/app-examples-template#folder-structure)
+8. [License](https://github.com/horeaporutiu/app-examples-template#license)
 
 # 🛠️ Tools and Technologies
 * [React](https://react.dev/)
@@ -62,13 +62,13 @@ of this app (including code explanations) see the [drag-and-drop tutorial](https
 
 > ⚠️ Make sure to install your app on a [developer team](https://developers.miro.com/docs/create-a-developer-team)! ⚠️
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/cb9698e8-fa77-4ad7-a349-ec1323f3cfee
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/b9c31fd0-1570-4a0f-a683-352d01d10478
 
 5. Go to your developer team, and open your boards. <b>Refresh your browser</b>.
 6. Click on the plus icon from the bottom section of your left sidebar. If you hover over it, it will say `More apps`.
 7. Search for your app `Drag and drop` or whatever you chose to name it. Click on your app to use it, as shown in the video below.
 
-https://github.com/horeaporutiu/app-examples-template/assets/10428517/708fb556-0553-4b46-8b74-1eb53ec70c65
+https://github.com/horeaporutiu/app-examples-template/assets/10428517/02a43ba0-e621-46d4-a2ae-f9dde89f8c22
 
 # 👷🏽 Optional - Build the app
 
