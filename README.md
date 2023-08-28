@@ -12,7 +12,6 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/3e9aa5ea-0
 * [Prerequisites](#prerequisites)
 * [Associated Developer Tutorial](#tutorial)
 * [Run the app locally](#run)
-* [Optional - Build the app](#build)
 * [Folder Structure](#folder)
 * [License](#license)
 
@@ -26,8 +25,7 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/3e9aa5ea-0
 * [React](https://react.dev/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Vite](https://vitejs.dev/)
-* [Node.js](https://nodejs.org/en/download)
-* [create-miro-app npm package](https://www.npmjs.com/package/create-miro-app)
+* This app is bootstrapped with the [create-miro-app npm package](https://www.npmjs.com/package/create-miro-app)
 
 # ✅ Prerequisites <a name="prerequisites"></a>
 * You have a [Miro account](https://miro.com/signup/).
@@ -60,7 +58,7 @@ of this app (including code explanations) see the [drag-and-drop tutorial](https
 
 4. Go back to your app home page, and under the `Permissions` section, you will see a blue button that says `Install app and get OAuth token`. Click that button. Then click on `Add` as shown in the video below.
 
-> ⚠️ Make sure to install your app on a [developer team](https://developers.miro.com/docs/create-a-developer-team)! ⚠️
+> ⚠️ We recommend to install your app on a [developer team](https://developers.miro.com/docs/create-a-developer-team) while you are developing or testing apps.⚠️
 
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/456108e8-7d9b-4067-94bb-e5511c736a23
 
@@ -87,6 +85,9 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/b23d9c4c-e
 ├── app.html <-- The app itself. This is loaded on the board inside the 'appContainer'.
 └── index.html <-- The app entry point. This is the value you assign to 'sdkUri' in the app manifest file.
 ```
+
+# 🪪 Contributing <a name="contributing"></a>
+If you want to contribute to this example, or any other Miro Open Source project, please review [Miro's contributing guide](https://github.com/miroapp/app-examples/blob/main/CONTRIBUTING.md).
 
 # 🪪 License <a name="license"></a>
 [MIT License](https://github.com/miroapp/app-examples/blob/main/LICENSE).
