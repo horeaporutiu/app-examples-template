@@ -79,7 +79,7 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/b23d9c4c-e
 └── index.html <-- The app entry point. This is the value you assign to 'sdkUri' in the app manifest file.
 ```
 
-# 🪪 Contributing <a name="contributing"></a>
+# 🫱🏻‍🫲🏽 Contributing <a name="contributing"></a>
 If you want to contribute to this example, or any other Miro Open Source project, please review [Miro's contributing guide](https://github.com/miroapp/app-examples/blob/main/CONTRIBUTING.md).
 
 # 🪪 License <a name="license"></a>
