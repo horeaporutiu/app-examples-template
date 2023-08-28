@@ -25,14 +25,12 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/3e9aa5ea-0
 * [React](https://react.dev/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Vite](https://vitejs.dev/)
-* This app is bootstrapped with the [create-miro-app npm package](https://www.npmjs.com/package/create-miro-app)
 
 # ✅ Prerequisites <a name="prerequisites"></a>
 * You have a [Miro account](https://miro.com/signup/).
 * You're [signed in to Miro](https://miro.com/login/).
 * Your Miro account has a [Developer team](https://developers.miro.com/docs/create-a-developer-team).
 * Your development environment includes [Node.js 14.13](https://nodejs.org/en/download) or a later version.
-* Chromium-based web browser for local development with HTTP.
 * All examples use `npm` as a package manager and `npx` as a package runner.
 
 # 📖 Associated Developer Tutorial <a name="tutorial"></a>
