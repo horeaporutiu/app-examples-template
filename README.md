@@ -66,11 +66,6 @@ https://github.com/horeaporutiu/app-examples-template/assets/10428517/456108e8-7
 
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/b23d9c4c-e785-43f9-a72e-fa5d82c7b019
 
-# 👷🏽 Optional - Build the app <a name="build"></a>
-
-- Run `npm run build`. \
-  This generates a static output inside `dist/`, which you can host on a static hosting service.
-
 # 🗂️ Folder structure <a name="folder"></a>
 
 ```
